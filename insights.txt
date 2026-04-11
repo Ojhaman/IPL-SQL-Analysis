@@ -1,0 +1,33 @@
+#IPL 2026 SQL ANALYSIS PROJECT
+
+## Project Overview
+This project analyzes ball-by-ball IPL 2026 data using SQL to extract insights about players, teams, and match performance.
+
+## Tools Used
+-MySQL Workbench
+-SQL
+
+## Key Analysis
+-Top batsmen
+-Strike rate and economy analysis
+-Phase-wise (Powerplay, Middle, Death) insights
+-Venus-based performance
+
+## Insights
+1) Total Matches: The tournament (dataset) consisted of 6 matches.
+2) Total Runs: A total of 1309 runs were scored across all the matches, indicating the overall scoring intensity of the tournament.
+3) Matches Per Venue: 1 match per venue was played.
+4) Top batsman: Angkrish Raghuvanshi was the highest run scorer with 98 runs and a striker rate of 168.9655, showing consistent batting performance.
+5) Boundaries: Ryan Rickelton scored maximum 8 sixes, and Ishan Kishan and Angkrish Raghuvanshi scoring maximum 11 fours.
+6) Top Bowler: Kartik Tyagi took the highest number of wickets (49).
+7) Economy: Varun Chakravarthy had the best economy rate of 12.3333, indicating tight and controlled bowling.
+8) Powerplay Analysis: David Payne had the most strike rate (21.5000) during the powerplay.
+9) Death Over Analysis: Abdul Samad with a strike rate of 36.0000 emerged with highest strike rate during death over.
+10) Batting Team Analysis: SRH scored the maximum runs (404) in the tournament.
+11) Balling Team Analysis: KKR conceded the maximum runs (429) throughout the tournament.
+12) Phase Comparison: The powerplay contributed a total of 549 runs whereas the death over contributed 257 runs.
+
+## Conclusion
+Overall, the tournament was dominated by strong batting performances, especially during death overs. Certain players stood out due to their consistency and aggressive play, while effective bowlers maintained low economy rates to control the game.
+
+
