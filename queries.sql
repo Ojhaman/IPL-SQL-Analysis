@@ -205,4 +205,3 @@ BEFORE INSERT ON deliveries
 FOR EACH ROW
 SET NEW.runs_of_bat = IF(NEW.runs_of_bat <0, 0, NEW.runs_of_bat);
 
-
