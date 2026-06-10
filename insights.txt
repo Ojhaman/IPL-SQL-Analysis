@@ -16,7 +16,7 @@ This project analyzes ball-by-ball IPL 2026 data using SQL to extract insights a
 ## Insights
 1) Total Matches: The tournament (dataset) consisted of 6 matches.
 2) Total Runs: A total of 1309 runs were scored across all the matches, indicating the overall scoring intensity of the tournament.
-3) Matches Per Venue: 1 match per venue was played.
+3) Matches Per Venue: One match per venue was played.
 4) Top batsman: Angkrish Raghuvanshi was the highest run scorer with 98 runs and a striker rate of 168.9655, showing consistent batting performance.
 5) Boundaries: Ryan Rickelton scored maximum 8 sixes, and Ishan Kishan and Angkrish Raghuvanshi scoring maximum 11 fours.
 6) Top Bowler: Kartik Tyagi took the highest number of wickets (49).
