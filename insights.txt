@@ -29,5 +29,3 @@ This project analyzes ball-by-ball IPL 2026 data using SQL to extract insights a
 
 ## Conclusion
 Overall, the tournament was dominated by strong batting performances, especially during death overs. Certain players stood out due to their consistency and aggressive play, while effective bowlers maintained low economy rates to control the game.
-
-
